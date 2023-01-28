@@ -1,35 +1,35 @@
 ---
-title: 'An example conference paper'
+title: 'Deaf Students’ Translanguaging Practices in a Further Education College: Situating the Semiotic Repertoire in Social Interactions'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Alys Young
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+#author_notes:
+#  - 'Equal contribution'
+#  - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2022-01-01 T00:00:00Z'
+doi: 'https://doi.org/10.1093/deafed/enab033'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+# publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: The Journal of Deaf Studies and Deaf Education
+publication_short: The Journal of Deaf Studies and Deaf Education
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Further education (FE) colleges are the most usual postsecondary education destination for deaf young people in England. The role of college contexts in promoting deaf students’ learning warrants further exploration given the gaps in educational attainment common to deaf students and the potential for FE context to provide new and/or enhanced linguistic resources in comparison with school. The main research question is: How do deaf students’ translanguaging practices change according to the different contexts of interlocution in college? Translanguaging entails the flexible use of semiotic resources not bounded by named languages. This ethnographic study reports on five deaf college students’ translanguaging practices. Findings are presented under three moments of translanguaging: (1) translanguaging expanded, or deaf students widening their repertoires to engage in communication; (2) translanguaging restricted, or deaf students accommodating to their communicative partners’ needs; (3) translanguaging channeled, or the dominance of English countering the flexibility of translanguaging. It is argued that translanguaging should be promoted in whole classrooms. Otherwise, it will reinforce the dominance of hearing communication practices and hinder deaf students’ multilingual/multimodal repertoires.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -44,14 +44,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: 'https://academic.oup.com/jdsde/article-pdf/27/1/101/41781263/enab033.pdf'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
